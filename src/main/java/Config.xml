@@ -5,7 +5,7 @@
 <configuration>
   <!-- VO 등록  -->
   <typeAliases>
-    <typeAlias type="com.sist.dao.FoodDAO" alias="FoodVO"/>
+    <typeAlias type="com.sist.vo.FoodVO" alias="FoodVO"/>
   </typeAliases>
   <!-- 오라클 환경 설정 : 정보 등록 : DBCP -->
   <environments default="development">
